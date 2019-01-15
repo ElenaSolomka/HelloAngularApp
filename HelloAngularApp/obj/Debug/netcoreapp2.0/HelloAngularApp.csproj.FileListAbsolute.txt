@@ -1,4 +1,3 @@
-F:\_Temp\forUnderstandCore\HelloAngularApp\HelloAngularApp\obj\Debug\netcoreapp2.0\HelloAngularApp.csprojResolveAssemblyReference.cache
 F:\_Temp\forUnderstandCore\HelloAngularApp\HelloAngularApp\bin\Debug\netcoreapp2.0\HelloAngularApp.deps.json
 F:\_Temp\forUnderstandCore\HelloAngularApp\HelloAngularApp\bin\Debug\netcoreapp2.0\HelloAngularApp.runtimeconfig.json
 F:\_Temp\forUnderstandCore\HelloAngularApp\HelloAngularApp\bin\Debug\netcoreapp2.0\HelloAngularApp.runtimeconfig.dev.json
