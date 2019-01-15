@@ -8,3 +8,4 @@ F:\_Temp\forUnderstandCore\HelloAngularApp\HelloAngularApp\obj\Debug\netcoreapp2
 F:\_Temp\forUnderstandCore\HelloAngularApp\HelloAngularApp\obj\Debug\netcoreapp2.0\HelloAngularApp.AssemblyInfo.cs
 F:\_Temp\forUnderstandCore\HelloAngularApp\HelloAngularApp\obj\Debug\netcoreapp2.0\HelloAngularApp.dll
 F:\_Temp\forUnderstandCore\HelloAngularApp\HelloAngularApp\obj\Debug\netcoreapp2.0\HelloAngularApp.pdb
+F:\_Temp\forUnderstandCore\HelloAngularApp\HelloAngularApp\obj\Debug\netcoreapp2.0\HelloAngularApp.csprojResolveAssemblyReference.cache
